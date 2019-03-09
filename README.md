@@ -30,16 +30,14 @@ Mapbox Studio is a a powerful tool to help you optimize and visualize your data,
 Dataset  → Tileset → Styles (→ *Libraries)*
 
 
----
-
-**Dataset**: Edit your data 📝
-**Tileset**: Bake your data into Vector tiles or upload rasters 🗾
-**Styles**: Customize your style in the Studio interface 🎨
-(***Libraries****: add your style to applications using one of our Mapbox libraries 👩‍💻 )*
+- **Dataset**: Edit your data 📝
+- **Tileset**: Bake your data into Vector tiles or upload rasters 🗾
+- **Styles**: Customize your style in the Studio interface 🎨
+- _(**Libraries:** add your style to applications using one of our Mapbox libraries 👩‍💻 )_
 
 
 # 🤓 This Session
-~~Dataset~~ → **Tileset → Styles** ****→ ~~Mapbox GL JS~~
+~~Dataset~~ → **Tileset → Styles** → ~~Libraries~~
 
 # Tilesets
 

@@ -85,16 +85,16 @@ Dataset  → Tileset → Styles (→ *Libraries)*
 - Download it
 
 
-# 🛠️ What we’ve learned
+# 🛠️ What we’ve learned (We may not get to all of it)
 - Upload a dataset to Studio
 - Add the tileset to a style
 - Create a new style using our core styles or a designer style
-- Filters
+- Polygons, lines, points, symbols
 - Style data
+- Filters
+- Mask
 - Layers
 - Terrain
-- Mask
-- Polygons, lines, points, symbols
 
 
 # ⚙️ Resources
@@ -105,6 +105,7 @@ Dataset  → Tileset → Styles (→ *Libraries)*
 
 
 🔗 [Our awesome glossary](https://docs.mapbox.com/help/glossary/) from our Doc Queens 👑
+🔗 [Our Election Guide](https://blog.mapbox.com/visualizing-election-data-a-guide-to-mapbox-gl-expressions-92cc469b8dfd) covers a bunch of our core elements, like expressions and feature-state.
 
 
 ----------
